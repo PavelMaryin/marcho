@@ -771,6 +771,10 @@ footer {
     max-width: 470px;
   }
 
+  &__form {
+    display: flex;
+  }
+
   &__adress,
   &__email,
   &__phone {
